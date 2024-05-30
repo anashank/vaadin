@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/anand/Desktop/flow-crm-tutorial/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/anand/Desktop/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/anand/Desktop/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/anand/Desktop/flow-crm-tutorial/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/anand/Desktop/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/anand/Desktop/flow-crm-tutorial/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/anand/Desktop/flow-crm-tutorial/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/anand/Desktop/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "/Users/anand/Desktop/flow-crm-tutorial/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
